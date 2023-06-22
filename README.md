@@ -1,2 +1,2 @@
-# assoofs
-A simple file system project for one of my CS courses: ASO
+# ASO
+All of the projects that I created for ASO (CS course)
